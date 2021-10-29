@@ -1,0 +1,16 @@
+--------------------------------------------------------------------- 
+ BEGIN FILE solutions.txt 
+ ___________________________________________ 
+ #Solutions for <n_queens> queens#Solutions for 9queens
+<pos_queen_nmro 1_fila 0> <pos_queen_columna 0
+<pos_queen_nmro 2_fila 1> <pos_queen_columna 4
+<pos_queen_nmro 3_fila 2> <pos_queen_columna 1
+<pos_queen_nmro 4_fila 3> <pos_queen_columna 5
+<pos_queen_nmro 5_fila 4> <pos_queen_columna 8
+<pos_queen_nmro 6_fila 5> <pos_queen_columna 2
+<pos_queen_nmro 7_fila 6> <pos_queen_columna 7
+<pos_queen_nmro 8_fila 7> <pos_queen_columna 3
+<pos_queen_nmro 9_fila 8> <pos_queen_columna 6
+--------------------------------------------------------------------- 
+ END FILE solutions.txt 
+ ___________________________________________
