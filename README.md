@@ -6,6 +6,10 @@ Para compilar dicho código, simplemente escriba lo siguiente en consolas dentro
 
 Donde *find* es el parametro que busca todas la soluciones utilizando un arbol que se grafica a raíz de la librería Grahpviz y genera el gráfico de. Y *all* el cuaal devuelve todas la soluciones que puede tener la reinas en el tablero, todo esto descrito en un archivo **.txt**.
 
+Por otro lado, *x* es el tamaño del tablero que deseamos utilizar.
+Un ejemplo de ello sería el siguiente:
+>`py main.py -problemType find -N 4`
+
 
 
 
